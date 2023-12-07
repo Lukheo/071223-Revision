@@ -1,0 +1,39 @@
+
+
+h1{
+     color:aliceblue;
+     font-family: Cambria;
+}
+
+h2{
+    text-align: center;
+    font-style: oblique;
+    font-family: Impact;
+}
+
+p{
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+h2{
+    color: aqua;
+    font-weight: bolder;
+}
+
+ul li{
+    color: aliceblue;
+    text-shadow: 3px;
+    list-style-type: square;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+    object-position: 20px 15px;
+    opacity: 75%;
+}
